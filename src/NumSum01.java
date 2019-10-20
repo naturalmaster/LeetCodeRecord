@@ -45,4 +45,4 @@ public class NumSum01 {
         }
         throw new IllegalArgumentException("No two sum solution");
     }
-}   
+}
