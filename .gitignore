@@ -2,6 +2,7 @@
 .idea/misc.xml
 .idea/modules.xml
 .idea/workspace.xml
+.idea/
 LeetCode.iml
 .idea/vcs.xml
 out/production/LeetCode/NumSum01.class
