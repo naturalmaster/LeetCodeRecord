@@ -1,5 +1,6 @@
 import java.util.*;
 
+
 public class DeckRevalCard {
 
 
@@ -9,6 +10,7 @@ public class DeckRevalCard {
         int i=0;
         Queue<Integer> queue = new LinkedList<>();
 
+        return null;
     }
 
     public int[] orderIndex(int[] array){
@@ -18,5 +20,6 @@ public class DeckRevalCard {
         while(i < array.length) {
 
         }
+        return null;
     }
 }
